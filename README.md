@@ -25,7 +25,7 @@ Add the gem to your application's Gemfile:
 
 ```ruby
 # ...
-gem 'workarea-ally'
+gem 'workarea-a11y'
 # ...
 ```
 
